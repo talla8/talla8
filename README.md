@@ -1,16 +1,25 @@
 ## Hi there 👋
+# Hi, I'm Tala 👋
 
-<!--
-**talla8/talla8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in backend and full-stack development.  
+I enjoy building practical web applications, working with APIs, and improving system design and code quality.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Languages: Java, TypeScript, JavaScript, Python, SQL
+- Backend: Node.js, NestJS, Express
+- Frontend: React, HTML, CSS
+- Tools: Git, GitHub, VS Code, IntelliJ
+- Databases: MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Smart Teacher Assistant
+Educational planning and analysis platform for early primary teachers.
+
+### Bridge
+A work sample project demonstrating frontend/backend development and structured documentation.
+
+## Currently Learning
+- Backend architecture
+- Testing
+- API design
+- System design basics
