@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Tala 👋
 
 I'm a Computer Science student interested in backend and full-stack development.  
