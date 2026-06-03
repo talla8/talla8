@@ -11,9 +11,6 @@ I enjoy building practical web applications, working with APIs, and improving sy
 - Databases: MySQL, PostgreSQL
 
 ## Featured Projects
-### Smart Teacher Assistant
-Educational planning and analysis platform for early primary teachers.
-
 ### Bridge
 A work sample project demonstrating frontend/backend development and structured documentation.
 
