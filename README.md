@@ -1,21 +1,24 @@
 # Hi, I'm Tala 👋
 
-I'm a Computer Science student interested in backend and full-stack development.  
-I enjoy building practical web applications, working with APIs, and improving system design and code quality.
+Junior Full-Stack Developer and Computer Science 4th year student with SDE internship experience at Amazon.
+
+I focus on backend and full-stack web applications.
+
+## Main Projects
+
+### ApplyMate
+Full-stack internship/job application tracker built with React, TypeScript, NestJS, Prisma, SQLite, JWT authentication, CRUD operations, reminders, contacts, and dashboard summaries.
+
+### Bridge
+Graduation project: educational planning platform for early-grade classrooms. I mainly worked on backend modules, authentication, database entities, baseline assessment handling, plan generation logic, and system documentation.
 
 ## Tech Stack
-- Languages: Java, TypeScript, JavaScript, Python, SQL
-- Backend: Node.js, NestJS, Express
+
+- Languages: TypeScript, Java, Kotlin, JavaScript, SQL
+- Backend: NestJS, Node.js, REST APIs, JWT Auth
 - Frontend: React, HTML, CSS
-- Tools: Git, GitHub, VS Code, IntelliJ
-- Databases: MySQL, PostgreSQL
+- Databases: SQLite, MySQL, PostgreSQL basics
+- Tools: Git, GitHub, Postman, VS Code, IntelliJ
+- Experience: Amazon SDE Intern — backend services, frontend components, monitoring, infrastructure configuration, code reviews
 
-## Featured Projects
-### Bridge
-A work sample project demonstrating frontend/backend development and structured documentation.
 
-## Currently Learning
-- Backend architecture
-- Testing
-- API design
-- System design basics
